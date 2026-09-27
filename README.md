@@ -3,6 +3,12 @@
 > **GitHub 议题与拉取请求自动化分流、智能路径打标、僵尸生命周期闭环与 PR 尺寸门禁编排引擎**  
 > Universal CLI Facade (UCFS v1.0) 标准实现 | 100% 离线自洽 | 零第三方依赖 | GitHub 官方分流基线对齐
 
+> [!NOTE]
+> **第一性原理架构收敛声明 (Evolution Notice)**:  
+> 本工具所包含的 Issue/PR 自动分流工作流与标签治理规范，已正式通过第一性原理仲裁并收敛归入高内聚特种技能 [skill-github-ops](file:///D:/github/skill-github-ops)（三级渐进式披露架构）。  
+> 存量代码已冻结并归档保留。在现代 AI 协同中，推荐直接调用 `skill-github-ops` 享受更轻量、零 Token 浪费的最佳实践。
+
+
 ---
 
 ## 🌟 核心价值与实用性痛点解答
